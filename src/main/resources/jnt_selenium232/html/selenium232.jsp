@@ -17,4 +17,4 @@
 <%--@elvariable id="renderContext" type="org.jahia.services.render.RenderContext"--%>
 <%--@elvariable id="currentResource" type="org.jahia.services.render.Resource"--%>
 <%--@elvariable id="url" type="org.jahia.services.render.URLGenerator"--%>
-<span>This is the master branch of the selenium 232</span>
+<span>Selenium branch of the selenium 232 module</span>
