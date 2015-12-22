@@ -76,7 +76,7 @@
   <parent>
     <groupId>org.jahia.modules</groupId>
     <artifactId>jahia-modules</artifactId>
-    <version>7.0.0.3-SNAPSHOT</version>
+    <version>7.2.0.0-SNAPSHOT</version>
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>selenium232</artifactId>
@@ -85,8 +85,8 @@
   <name>selenium232</name>
   <description>This is the custom module (selenium232) for running on a Digital Factory server.</description>
   <scm>
-    <connection>scm:git:git@github.com:jahia-qa/selenium232.git</connection>
-    <developerConnection>scm:git:git@github.com:jahia-qa/selenium232.git</developerConnection>
+    <connection>scm:git:git@github.com:jahia-qa/selenium232-72.git</connection>
+    <developerConnection>scm:git:git@github.com:jahia-qa/selenium232-72.git</developerConnection>
   </scm>
   <repositories>
     <repository>
