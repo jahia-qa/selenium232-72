@@ -85,8 +85,8 @@
   <name>selenium232</name>
   <description>This is the custom module (selenium232) for running on a Digital Factory server.</description>
   <scm>
-    <connection>scm:git:git@github.com:jahia-qa/selenium232-71.git</connection>
-    <developerConnection>scm:git:git@github.com:jahia-qa/selenium232-71.git</developerConnection>
+    <connection>scm:git:git@github.com:jahia-qa/selenium232-72.git</connection>
+    <developerConnection>scm:git:git@github.com:jahia-qa/selenium232-72.git</developerConnection>
   </scm>
   <repositories>
     <repository>
