@@ -18,4 +18,4 @@
 <%--@elvariable id="currentResource" type="org.jahia.services.render.Resource"--%>
 <%--@elvariable id="url" type="org.jahia.services.render.URLGenerator"--%>
 <span>Selenium branch of the selenium 232 module</span>
-<span>Today is= 04/10/2018</span>
+<span>Today is= 05/10/2018</span>
